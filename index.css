@@ -11,8 +11,13 @@ h2 {
 }
 div {
 	text-decoration: remove underline; 
-padding:10px;}
+	padding top:10px
+padding right:10px
+padding bottom:10px
+padding left:0px;
+}
 .round {border-radius: 25px;}
 .done { 
-	text-decoration: none
+	text-decoration: none;
+
 }
