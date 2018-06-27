@@ -4,11 +4,12 @@
 
 .important{
 	font-size:50px;
-
 }
+
 h2 {
 	color:navy;
 }
+
 div {
 	text-decoration: remove underline; 
 	padding-top:10px;
@@ -17,15 +18,22 @@ div {
 	padding-left:0px;
 	margin-bottom: 10px;
 }
+
 .round {border-radius: 25px;}
 .done { 
 	text-decoration: none;
+	color:black;
 }
+
 body {
 	font-family: Comic Sans;
 	padding-right: :10px;
 	margin-bottom:10px;
 	padding-top:10px;
-	padding-left:0px;
+	padding-left:10px;
 	font-family:'Roboto', sans-serif;;
+}
+
+#header {
+	border-bottom: 2px solid navy;
 }
